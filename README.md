@@ -2,6 +2,8 @@
   <img src="docs/images/texlite.png" />
 </p>
 
+special thanks to Duber for being Duber
+
 [![PyPI version](https://img.shields.io/pypi/v/texlite.svg)](https://pypi.org/project/texlite) ![Linux](https://github.com/lucrae/texlite/workflows/Linux/badge.svg) ![macOS](https://github.com/lucrae/texlite/workflows/macOS/badge.svg) ![Windows](https://img.shields.io/badge/Windows-tested-32c954)
 
 TeXLite is a lightweight open-source tool for writing standard LaTeX/TeX documents in clean, Markdown-style syntax. With TeXLite, it's easy to write **good-looking documents with minimal overhead**.
